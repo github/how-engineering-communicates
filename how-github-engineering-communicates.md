@@ -1,7 +1,7 @@
 # How GitHub Engineering communicates
 _(Community version, lightly edited, primarily to remove internal URLs and references)_
 
-For a tl;dr version of this document, see [the companion quick-reference guide](./how-we-communicate-quick-ref.md).
+For a tl;dr version of this document, see [the companion quick-reference guide](./how-gh-eng-communicates-quick-ref.md).
 
 # Purpose and motivation
 
