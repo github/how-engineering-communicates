@@ -1,4 +1,4 @@
-# How to communicate like a GitHub engineer: our principles, practices, and tools
+# How to communicate like a GitHub engineer: Our principles, practices, and tools
 
 As a company that's been remote-first since day one, GitHub Engineering has learned a lot about how to communicate effectively across time zones, teams, and tools. We've distilled our experience into a set of guidelines that we call "how we communicate", and we're sharing them with you here. 
 
