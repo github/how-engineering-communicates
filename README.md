@@ -13,6 +13,7 @@ Pull requests are welcome!
 * [How GitHub Engineering communicates](how-github-engineering-communicates.md)
 * [Quick Reference](quick-ref.md)
 * [Tips for leaders](tips-for-leaders.md)
+
 ## License
 
 This documentation is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
