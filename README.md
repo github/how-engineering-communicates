@@ -7,3 +7,13 @@ Unlike many companies that made the transition to remote work during the pandemi
 We hope that by sharing our communication practices publicly, we can help other organizations that are embracing remote work or want to improve their collaboration culture. [Read this blog post]() to learn more about how we use GitHub to build GitHub, how we manage our internal communications signal-to-noise ratio, and how you can contribute to the ongoing conversation.
 
 Pull requests are welcome!
+
+## Contents
+
+* [How GitHub Engineering communicates](how-github-engineering-communicates.md)
+* [Quick Reference](quick-ref.md)
+* [Tips for leaders](tips-for-leaders.md)
+
+## License
+
+This documentation is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
