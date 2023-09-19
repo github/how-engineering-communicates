@@ -190,7 +190,7 @@ To keep things actionable when reviewing a pull request, prefer specific in-line
 
 ### Managing GitHub notifications
 
-While we may not often use email internally, we rely heavily on GitHub notifications. Like your email inbox, it is expected that you subscribe to the appropriate repos, regularly check your GitHub notifications, and respond to `@mentions` and team mentions as necessary (see "First responders" later in this document). To cut down on some of the noise, consider [enabling the "Only notify requested team members"](https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-settings-for-your-team#about-team-notifications) code review setting for your teams so you can request specific individuals for review without notifying the entire team.
+While we may not often use email internally, we rely heavily on GitHub notifications. Like your email inbox, it is expected that you subscribe to the appropriate repos, regularly check your GitHub notifications, and respond to `@mentions` and team mentions as necessary. To cut down on some of the noise, consider [enabling the "Only notify requested team members"](https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-settings-for-your-team#about-team-notifications) code review setting for your teams so you can request specific individuals for review without notifying the entire team.
 
 Teams and individuals should strive to respond to non-urgent GitHub notifications within one business day during their regular working hours. If an issue or comment fails to garner a response, consider escalating the issue to the appropriate chat channel.
 
