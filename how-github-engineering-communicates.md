@@ -196,7 +196,7 @@ Teams and individuals should strive to respond to non-urgent GitHub notification
 
 [Notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) can be delivered either via email, mobile, or as web notifications via your GitHub.com inbox ([here's one real-world example](https://ben.balter.com/2020/08/25/how-i-manage-github-notifications/) of how to manage notifications). To enable notifications, go to the GitHub Settings page and select [Notifications](https://github.com/settings/notifications). Scroll to the "Participating" section and opt in to email and/or web and mobile notifications.
 
-Whether in GitHub notifications or notifications via any other communications tool, always provide context when `@mentioning` another person. A contextless "`@monalisa`" notification is a lot less actionable than a specific request or call to action. And if you're only referring to someone, but don't actually need their attention, surround the `@mention` in backticks (` `) to avoid the ping.
+Whether in GitHub notifications or notifications via any other communications tool, always provide context when `@mentioning` another person. A contextless "`@monalisa`" notification is a lot less actionable than a specific request or call to action. And if you're only referring to someone, but don't actually need their attention, surround the `@mention` in backticks (`) to avoid the ping.
 
 ## Google Docs
 
