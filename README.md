@@ -11,7 +11,7 @@ Pull requests are welcome!
 ## Contents
 
 * [How GitHub Engineering communicates](how-github-engineering-communicates.md)
-* [Quick Reference](quick-ref.md)
+* [Quick reference](quick-ref.md)
 * [Tips for leaders](tips-for-leaders.md)
 
 ## License
