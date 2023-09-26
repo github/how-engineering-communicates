@@ -10,7 +10,7 @@ Note that this project is released with a [Contributor Code of Conduct](./CODE_O
 
 ## Submitting a pull request
 
-1. [Fork](https://github.com/github/how-engineering-communicates/form) and clone the repository
+1. [Fork](https://github.com/github/how-engineering-communicates/fork) and clone the repository
 2. Create a descriptively named branch: `git checkout -b my-branch-name`
 3. Make your change
 4. Push to your fork and [submit a pull request](https://github.com/github/how-engineering-communicates/compare) describing your change
