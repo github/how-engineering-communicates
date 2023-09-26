@@ -1,4 +1,6 @@
 
+To summarize discussion posts for ease of skimming, we use the following instructions and prompt with the `gpt-35-turbo` model hosted on the [Azure OpenAI service](https://azure.microsoft.com/en-us/products/ai-services/openai-service):
+
 ## Instructions
 
 ```markdown
