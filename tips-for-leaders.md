@@ -18,7 +18,7 @@ This document contains a brief set of further expectations for leaders on how to
 
 ## Invest in psychological safety
 
-Start here 👆. If there's one thing you can do to foster stronger asynchronous practices on your team, it's to be intentional about [creating psychological safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/). Be open to feedback, admit your mistakes, and show vulnerability. By cultivating an inclusive environment in which your team members feel safe to take risks, share ideas, voice concerns, and provide feedback, all without fear of retribution, you'll empower them to be able to work more independently on the schedule that works best for them, and they won't be held up waiting to ask for your approval. Plus, being open and able to discuss the hard things with each other means we'll always be growing and improving.
+Start here 👆. If there's one thing you can do to foster stronger asynchronous practices on your team, it's to be intentional about [creating psychological safety](https://rework.withgoogle.com/en/guides/understanding-team-effectiveness#introduction). Be open to feedback, admit your mistakes, and show vulnerability. By cultivating an inclusive environment in which your team members feel safe to take risks, share ideas, voice concerns, and provide feedback, all without fear of retribution, you'll empower them to be able to work more independently on the schedule that works best for them, and they won't be held up waiting to ask for your approval. Plus, being open and able to discuss the hard things with each other means we'll always be growing and improving.
 
 Ways to get started: 
 
